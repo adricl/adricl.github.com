@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
-tagline: Minimal Mistakes, a Jekyll Theme
-tags: [about, Jekyll, theme, responsive]
+title: About Adric
+tags: [about, aboutme, adric, Quadcopters, perl]
 modified: 9-9-2013
 comments: true
 image:
@@ -12,19 +11,14 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+## Purpose
+This blog is primarily a Tech blog talking about Quadcopters; building them and the trials and tribulations therein. I will also write about other things that interest me tech related. 
 
-## Minimal Mistakes is all about:
+By day I am software developer, and by night I do much the same.
+I primarily work in Perl and C++.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+##My current projects are:
+* Building a Quadcopter Platform that is cheap (around $150) and easy to make. This platform is for modding and for the general community to make. Eventually the end goal is to build a quadcopter swarm that communicates with ground robots. 
+* Building a robotic remote controlled car using a Beagle Bone Black, GPS and full Inertial Measurement Unit. This is a long term project teaching me about how to use Robotic Operating System and how all these different system interact with each other.
+* Learning about web development Ruby and JS hence this blog.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
-
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
