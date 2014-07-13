@@ -1,7 +1,8 @@
 title:            Quadcopters weren't built in a day
 description:      Adric's building Robots and Code. 
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+#url:              http://localhost:4000
+url:               http://adricl.github.io/
 disqus_shortname: standingontheshouldersofdwarves
 
 # Owner/author information
@@ -44,7 +45,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Australia/Melbourne
 future:      true
-highlighter: pygments
+highlighter:    pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
