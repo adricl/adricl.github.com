@@ -45,13 +45,15 @@ You will also need a battery charger. This
 * $31.49 Cheap RC Controller [Hobby King 2.4Ghz 6Ch Tx & Rx V2](http://www.hobbyking.com/hobbyking/store/__16255__Hobby_King_2_4Ghz_6Ch_Tx_Rx_V2_Mode_1_AUS_Warehouse_.html)
 
 ### Total
-$221.27 
+##### $221.27 
 
+#### Optionally Better Flight Controller
 If you wanted a more robust experience I would buy a better flight controllers with more features, the following are better flight controllers.
 * $69.29 [HK Pilot - Open Source 8 bit its a full featured autopilot with waypoint capabilities](http://hobbyking.com/hobbyking/store/__56052__HKPilot_Mega_2_7_Flight_Controller_USB_GYRO_ACC_MAG_BARO.html) 
 * $69.95 [Naze32 Pilot - Open Source 32 bit processor.](http://madetofly.com.au/shop/flightcontrollers/spiritfly32-pro-naked-edition-rev5-with-buzzer/)
 * $279.98 [3DR Pixhawk 32 bit More featured than the Naze 32 processor open source](https://store.3drobotics.com/products/3dr-pixhawk)
 
+#### Optionally Better RC Controller 
 If you wanted a better controller I recommend the following:
 * $218.40 [Taranis Open Source One of the best open Remote Controls](http://hobbyking.com/hobbyking/store/__45027__FrSky_2_4GHz_ACCST_TARANIS_X9D_and_X8R_Combo_Digital_Telemetry_Radio_System_Mode_1_New_Battery.html)
 
