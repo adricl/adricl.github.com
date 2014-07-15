@@ -7,7 +7,7 @@ comments: true
 share: true
 ---
 <figure>
-	<a href="{{ site.url }}/images/post_images/DSC_0039_done.jpg"><img src="{{ site.url }}/images/post_images/DSC_0039_done.JPG"></a>
+	<a href="{{ site.url }}/images/post_images/DSC_0039_done.jpg"><img src="{{ site.url }}/images/post_images/DSC_0039_done.jpg"></a>
 	<figcaption><a >Quadcopter.</a>.</figcaption>
 </figure>
 Please note all prices are in AUD.
