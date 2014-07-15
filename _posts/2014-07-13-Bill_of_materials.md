@@ -8,7 +8,7 @@ share: true
 ---
 <figure>
 	<a href="{{ site.url }}/images/post_images/Copter_Fail.jpg"><img src="{{ site.url }}/images/post_images/DSC_0039_done.JPG"></a>
-	<figcaption><a >Pre-Crashed Quadcopter.</a>.</figcaption>
+	<figcaption><a >Quadcopter.</a>.</figcaption>
 </figure>
 Please note all prices are in AUD.
 
