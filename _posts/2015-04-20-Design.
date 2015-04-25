@@ -18,7 +18,43 @@ share: true
 From the image above you can see 6 different iterations of this quadcopter design. 
 From the top left to the bottom right you can see the change in materials and design modifications. 
 
-This is by no means a comprehensive list of different interations. This is just what I found lying around.
+This is by no means a comprehensive list of different iterations. This is just what I found lying around that I had built with. The following are some of the design considerations. Please note I am not a mechanical or civil engineer. 
 
 ### Materials
-I have been experimenting with many different materials, my primary concerns where weight, flex and strength.  
+I have been experimenting with many different materials, my primary concerns are weight, flex(Rigidity) and strength. 
+
+ I have tried Acrylic at first which is really easy to lasercut and I have easy access to a laser cutter so this was the best material to prototype with. Acrylic is quite expensive compared with other materials such as Polycarbonate or plywood but my main issue was it was so brittle. I have had many light crashes where the frame just snapped in to. This not being my first quad, I am very used to crashes and having them break like this was unacceptable. 
+
+I next tried polycarbonate, pollycarbonte is the material used in bulletproof glass. It is heavier than acrylic and also surprisingly flexible I could bend it back on itself @@@@@@@@@@@@@@@@@@@@@@@@PIC@@@@@@@@@@@@@@ This material also had to be watercut as lasercutting caused all sorts of toxic fumes to come out, and this process is so much more costly. 
+
+In my search I started to look at wood again. I first had started on marine ply which is very toxic to lasercut but redly available. I came across bamboo ply which forfills most of my criteria. Its very light and cheap and   
+
+
+## Weight
+
+Weight is the most crucial as it effect everything in terms of flight. Too heavy and it wont be able to take off or reduce your flight time significantly.
+
+Acrly is very 
+Pollycarbate and Acrylic is very heavy compared to other materials of the same dimensions. So this material is not great for building. 
+
+## Flex
+
+Flexibility is important in quadcopter design because it need to be able to absorb impact. Impacts happen all the time and can be mitigated by good landing legs, but this is also a large part of the design of the frame as well. Flex also impacts how sturdy the frame is. If it was too flexible it would impact the 
+
+Acrylic was a good example of this, everytime I landed even lightly it would crack or shatter the frame. This could not be mitigated by legs because the material was just too brittle and did not have enough flex. Acrylic also cracks easily  
+
+Pollycarbonate on the other hand was too flexible as this image shows @@@@@@@@@@@@@@@@@@@@@***PIC  I had to layer this with Acrylc to get enough strength for this frame not to flex too much in flight. 
+
+## Strength
+
+
+
+
+
+
+
+
+
+### Design 
+
+--Issues with cracking and spliting due to holes and cracking due to acylcy
