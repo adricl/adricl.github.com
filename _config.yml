@@ -1,8 +1,8 @@
 title:            Quadcopters weren't built in a day
 description:      Adric's building Robots and Code. 
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-#url:              http://localhost:4000
-url:               http://adricl.github.io
+url:              http://localhost:4000
+#url:               http://adricl.github.io
 disqus_shortname: standingontheshouldersofdwarves
 
 # Owner/author information
